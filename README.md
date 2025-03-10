@@ -4,7 +4,9 @@
 [![Email](https://img.shields.io/badge/Email-jasonalex.st%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jasonalex.st@gmail.com)
 [![Website](https://img.shields.io/badge/Website-jasondev.me-green?style=flat-square&logo=react)](https://jasondev.me/)
 
-Hi! I'm a Computer Science student primarily experienced with Java, JavaScript / TypeScript, React, Golang with extensive experience building full stack web applications, APIs, and developer tools. I am also decent in Python, C++, R, and LaTeX. I am currently in the **Projects** team at **Monash Association of Coding (MAC)**.
+Hi! I'm a Computer Science student primarily experienced with Java, JavaScript / TypeScript, React, Golang with extensive experience building full stack web applications, APIs, and developer tools. I am also decent in Python, C++, R, and LaTeX. 
+
+You might also know me from the **Projects** team at **Monash Association of Coding (MAC)**.
 
 Feel free to connect with me through my LinkedIn! I'm open for any opportunities.
 
@@ -17,12 +19,17 @@ Feel free to connect with me through my LinkedIn! I'm open for any opportunities
 
 ## some cool projects
 
-### [Monash Timetable Generator](https://timetabler.jasondev.me/)
+### [MAC's job board](https://jobs.monashcoding.com)
+- Job board to help students find roles easily all in one place
+- Implemented server-side rendering for SEO, security, and performance with React Server Components
+- Wrote logging module and improved efficiency of Go web scraper
+  
+### [monash timetable generator](https://timetabler.jasondev.me/)
 - Web application that generates optimal class schedules for Monash University students
 - Reduced API response times from **450ms** to **40ms** using Redis and Cloudflare CDNs
 - Tech stack: Go, Next.js, React, MongoDB, Redis, Docker
 
-### [Monash Handbook API](https://github.com/jason301c/monash-handbook-api)
+### [monash handbook API](https://github.com/jason301c/monash-handbook-api)
 - REST API delivering structured Monash University course catalog data
 - Optimized database storage with custom data structures for prerequisite handling
 - Tech stack: Go, MongoDB, Redis, Docker, RESTful API design
@@ -50,7 +57,7 @@ Feel free to connect with me through my LinkedIn! I'm open for any opportunities
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-## nice stats
+## some cool github stats
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason301c&show_icons=true&theme=tokyonight)](https://github.com/jason301c)
 
