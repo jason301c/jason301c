@@ -1,46 +1,25 @@
 # Jason Alexander Sutiono
-📍 Melbourne 🇦🇺 | Head of Product & Ops @ [TrustReviews](https://thetrustreviews.com) | CS @ [Monash](https://www.monash.edu) | Projects @ [Monash Association of Coding](https://monashcoding.com)
 
-Previously doing research as an intern @ [CSIRO](https://www.csiro.au)
+Product engineer and operator based in Melbourne. I build software, AI systems, and internal tooling that actually run businesses.
 
-## My projects:
-- 🗺️ **[MonMap](https://monmap.monashcoding.com)** - Monash course planner, 100+ DAU
-- 💼 **[Jobynator](https://jobynator.com)** - Australian job aggregator, 10k+ fresh listings/day
-- 📋 **[MAC Job Board](https://jobs.monashcoding.com)** - Job board for graduate and intern roles, 2.2k weekly users
-- 🎨 **[DesignFlow](https://designflow.cc)** - Open-source CLI tool to model screens as React components
-- 👗 **[Weave](https://devpost.com/software/weave-vn2xdk)** - AI virtual dressing room (3rd, UNIHACK 2025)
+Right now I run product and operations at [TrustReviews](https://thetrustreviews.com) (1,000+ SMBs, agency + SaaS). Before that, I was a summer research intern at [CSIRO](https://www.csiro.au), where I ported vLLM to ROCm on Australia's Setonix supercomputer and co-authored a first-author paper accepted at IEEE PowerCon 2026. CS grad from Monash University.
 
-## Proficient in:
+### What I like building
+- Software that replaces messy spreadsheets, glue code, and manual ops
+- AI agents and MCP servers wired into real production systems, not weekend demos
+- Data pipelines that give operators real numbers instead of guesses
+- Fast, end-to-end web and mobile products
 
-**Capabilities**
-- Aggregate data and building data pipelines, helping leadership make decisions grounded in data
-- Ship full stack projects end to end, specializing in web-apps
-- Build and integrate AI agents for automation of ultra-specific tasks, e.g. payment reconcilliation
-- Optimize internal operations of organizations - identifying and fixing bottlenecks across workflows
-- Web scraping
+### Selected projects
+- **[MonMap](https://monmap.monashcoding.com):** Course planner for Monash students (400+ users, 1,800+ course maps).
+- **[Jobynator](https://jobynator.com):** Australian job aggregator indexing 10k+ fresh listings a day.
+- **[MAC Job Board](https://jobs.monashcoding.com):** Grad and intern job board for Monash Association of Coding (2,000+ weekly visits).
+- **[DesignFlow](https://designflow.cc):** Open-source CLI to model screens as React components.
+- **[Weave](https://devpost.com/software/weave-vn2xdk):** AI virtual dressing room built in 48 hours (3rd of 150+ teams, UNIHACK 2025).
 
-**Tooling / Frameworks**
-- AI tooling: Claude Code, OpenAI Codex
-- AI agents: Mastra, Vercel AI SDK, LangChain, MCP (Model Context Protocol)
-- Cloud: AWS, Azure
-- Frontend: Next.js, SwiftUI (iOS), Astro, Vite, TanStack Start
-- Backend: Hono, Gin, SpringBoot 
-- CI/CD: GitHub Actions
-- Containerization: Docker, Singularity
-- Analytics: PostHog, Grafana, Loki
-- Databases: Postgres, MongoDB
-- Message Queues: RabbitMQ, Redis (BullMQ)
+### Default stack
+TypeScript, Python, Go, SQL | React, Next.js, Expo, Hono | Cloudflare Workers, PostgreSQL, Redis, Docker, GitHub Actions, PostHog
 
-**Languages**
-- TypeScript / JavaScript
-- Python
-- Swift
-- Java
-- Go
-- SQL
-- HTML + CSS
+---
 
-## Connect
-- [jasonsutiono.com](https://jasonsutiono.com)
-- Find me on [LinkedIn](https://linkedin.com/in/jason-alexanders)
-- Email me at [jasonalex.st@gmail.com](mailto:jasonalex.st@gmail.com)
+[jasonsutiono.com](https://jasonsutiono.com) | [LinkedIn](https://linkedin.com/in/jason-alexanders) | [jasonalex.st@gmail.com](mailto:jasonalex.st@gmail.com)
